@@ -1,0 +1,5 @@
+xmltodict
+wget
+pandas
+boto3
+s3fs
