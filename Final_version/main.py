@@ -77,5 +77,5 @@ final_df.to_csv('task_data.csv',index= False)
 # Store the csv file into the s3 bucket
 final_df.to_csv(
     's3://python-engineering-assesment-task/task_auto_file.csv',
-    storage_options={'key':'AKIAYL7YHKTYHHVMCRFD',
-                     'secret':'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'})
+    storage_options={'key':'################',
+                     'secret':'##############################'})
