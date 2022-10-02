@@ -11,4 +11,7 @@ and downloading further information.
 the Jupyter notebooks are used to check the dataset’s keys and values. And another 
 version is a final version of in which the OOP-based version is utilized.
 
+-> both the final and intial version does not contain the AWS account secrate keys, due to account
+security purpose.
+
 -> This github repositry does not contain dataset due to memory issue.
